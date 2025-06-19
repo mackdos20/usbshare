@@ -1,0 +1,302 @@
+2025-06-17 14:20:41,028 - USB_Redirector_Server - INFO - === Initializing Server ===
+2025-06-17 14:20:41,028 - USB_Redirector_Server - INFO - Start Time: 2025-06-17 14:20:41
+2025-06-17 14:20:42,060 - USB_Redirector_Server - INFO - 
+=== Server IP Information ===
+2025-06-17 14:20:42,060 - USB_Redirector_Server - INFO - Local IP: 169.254.159.62
+2025-06-17 14:20:42,060 - USB_Redirector_Server - INFO - WAN IP: 176.88.175.173
+2025-06-17 14:20:42,060 - USB_Redirector_Server - INFO - Port: 8765
+2025-06-17 14:20:42,060 - USB_Redirector_Server - INFO - ===========================
+
+2025-06-17 14:20:42,060 - USB_Redirector_Server - INFO - Server initialized successfully
+2025-06-17 14:20:42,060 - USB_Redirector_Server - INFO - === Server Initialization Complete ===
+2025-06-17 14:20:42,069 - USB_Redirector_Server - INFO - === Starting Server ===
+2025-06-17 14:20:42,069 - USB_Redirector_Server - INFO - Start Time: 2025-06-17 14:20:42
+2025-06-17 14:20:42,075 - websockets.server - INFO - server listening on 0.0.0.0:8765
+2025-06-17 14:20:42,075 - USB_Redirector_Server - INFO - Server started on 0.0.0.0:8765
+2025-06-17 14:20:42,083 - USB_Redirector_Server - INFO - === Server Start Complete ===
+2025-06-17 14:20:45,631 - USB_Redirector_Server - INFO - === Initializing Server ===
+2025-06-17 14:20:45,631 - USB_Redirector_Server - INFO - Start Time: 2025-06-17 14:20:45
+2025-06-17 14:20:46,561 - USB_Redirector_Server - INFO - 
+=== Server IP Information ===
+2025-06-17 14:20:46,561 - USB_Redirector_Server - INFO - Local IP: 169.254.159.62
+2025-06-17 14:20:46,561 - USB_Redirector_Server - INFO - WAN IP: 176.88.175.173
+2025-06-17 14:20:46,561 - USB_Redirector_Server - INFO - Port: 8765
+2025-06-17 14:20:46,561 - USB_Redirector_Server - INFO - ===========================
+
+2025-06-17 14:20:46,561 - USB_Redirector_Server - INFO - Server initialized successfully
+2025-06-17 14:20:46,561 - USB_Redirector_Server - INFO - === Server Initialization Complete ===
+2025-06-17 14:20:46,562 - ServerGUI - ERROR - Error starting server: Cannot run the event loop while another loop is running
+2025-06-17 14:21:12,791 - ServerGUI - ERROR - Error starting server: Cannot run the event loop while another loop is running
+2025-06-17 14:21:37,754 - ServerGUI - ERROR - Error starting server: Cannot run the event loop while another loop is running
+2025-06-17 14:43:25,589 - USB_Redirector_Server - INFO - === Initializing Server ===
+2025-06-17 14:43:25,591 - USB_Redirector_Server - INFO - Start Time: 2025-06-17 14:43:25
+2025-06-17 14:43:27,557 - USB_Redirector_Server - INFO - 
+=== Server IP Information ===
+2025-06-17 14:43:27,557 - USB_Redirector_Server - INFO - Local IP: 169.254.159.62
+2025-06-17 14:43:27,557 - USB_Redirector_Server - INFO - WAN IP: 176.88.175.173
+2025-06-17 14:43:27,557 - USB_Redirector_Server - INFO - Port: 8765
+2025-06-17 14:43:27,557 - USB_Redirector_Server - INFO - ===========================
+
+2025-06-17 14:43:27,557 - USB_Redirector_Server - INFO - Server initialized successfully
+2025-06-17 14:43:27,557 - USB_Redirector_Server - INFO - === Server Initialization Complete ===
+2025-06-17 14:43:27,564 - USB_Redirector_Server - INFO - === Starting Server ===
+2025-06-17 14:43:27,564 - USB_Redirector_Server - INFO - Start Time: 2025-06-17 14:43:27
+2025-06-17 14:43:27,571 - websockets.server - INFO - server listening on 0.0.0.0:8765
+2025-06-17 14:43:27,573 - USB_Redirector_Server - INFO - Server started on 0.0.0.0:8765
+2025-06-17 14:43:27,582 - USB_Redirector_Server - INFO - === Server Start Complete ===
+2025-06-17 14:43:58,853 - USB_Redirector_Server - INFO - === Initializing Server ===
+2025-06-17 14:43:58,854 - USB_Redirector_Server - INFO - Start Time: 2025-06-17 14:43:58
+2025-06-17 14:43:59,677 - USB_Redirector_Server - INFO - 
+=== Server IP Information ===
+2025-06-17 14:43:59,677 - USB_Redirector_Server - INFO - Local IP: 169.254.159.62
+2025-06-17 14:43:59,677 - USB_Redirector_Server - INFO - WAN IP: 176.88.175.173
+2025-06-17 14:43:59,677 - USB_Redirector_Server - INFO - Port: 8765
+2025-06-17 14:43:59,677 - USB_Redirector_Server - INFO - ===========================
+
+2025-06-17 14:43:59,677 - USB_Redirector_Server - INFO - Server initialized successfully
+2025-06-17 14:43:59,677 - USB_Redirector_Server - INFO - === Server Initialization Complete ===
+2025-06-17 14:43:59,677 - ServerGUI - ERROR - Error starting server: Cannot run the event loop while another loop is running
+2025-06-17 14:44:45,676 - USB_Redirector_Server - INFO - === Initializing Server ===
+2025-06-17 14:44:45,676 - USB_Redirector_Server - INFO - Start Time: 2025-06-17 14:44:45
+2025-06-17 14:44:47,001 - USB_Redirector_Server - INFO - 
+=== Server IP Information ===
+2025-06-17 14:44:47,001 - USB_Redirector_Server - INFO - Local IP: 169.254.159.62
+2025-06-17 14:44:47,001 - USB_Redirector_Server - INFO - WAN IP: 176.88.175.173
+2025-06-17 14:44:47,001 - USB_Redirector_Server - INFO - Port: 8765
+2025-06-17 14:44:47,001 - USB_Redirector_Server - INFO - ===========================
+
+2025-06-17 14:44:47,001 - USB_Redirector_Server - INFO - Server initialized successfully
+2025-06-17 14:44:47,001 - USB_Redirector_Server - INFO - === Server Initialization Complete ===
+2025-06-17 14:44:47,001 - USB_Redirector_Server - INFO - === Starting Server ===
+2025-06-17 14:44:47,001 - USB_Redirector_Server - INFO - Start Time: 2025-06-17 14:44:47
+2025-06-17 14:44:47,008 - websockets.server - INFO - server listening on 0.0.0.0:8765
+2025-06-17 14:44:47,008 - USB_Redirector_Server - INFO - Server started on 0.0.0.0:8765
+2025-06-17 14:44:47,018 - USB_Redirector_Server - INFO - === Server Start Complete ===
+2025-06-17 14:44:49,622 - USB_Redirector_Server - INFO - === Initializing Server ===
+2025-06-17 14:44:49,622 - USB_Redirector_Server - INFO - Start Time: 2025-06-17 14:44:49
+2025-06-17 14:44:50,494 - USB_Redirector_Server - INFO - 
+=== Server IP Information ===
+2025-06-17 14:44:50,494 - USB_Redirector_Server - INFO - Local IP: 169.254.159.62
+2025-06-17 14:44:50,494 - USB_Redirector_Server - INFO - WAN IP: 176.88.175.173
+2025-06-17 14:44:50,494 - USB_Redirector_Server - INFO - Port: 8765
+2025-06-17 14:44:50,494 - USB_Redirector_Server - INFO - ===========================
+
+2025-06-17 14:44:50,494 - USB_Redirector_Server - INFO - Server initialized successfully
+2025-06-17 14:44:50,495 - USB_Redirector_Server - INFO - === Server Initialization Complete ===
+2025-06-17 14:44:50,518 - USB_Redirector_Server - INFO - === Starting Server ===
+2025-06-17 14:44:50,519 - USB_Redirector_Server - INFO - Start Time: 2025-06-17 14:44:50
+2025-06-17 14:44:50,520 - websockets.server - INFO - server listening on 0.0.0.0:8765
+2025-06-17 14:44:50,520 - USB_Redirector_Server - INFO - Server started on 0.0.0.0:8765
+2025-06-17 14:44:50,525 - USB_Redirector_Server - INFO - === Server Start Complete ===
+2025-06-17 14:45:53,461 - USB_Redirector_Server - INFO - === Initializing Server ===
+2025-06-17 14:45:53,465 - USB_Redirector_Server - INFO - Start Time: 2025-06-17 14:45:53
+2025-06-17 14:45:54,685 - USB_Redirector_Server - INFO - 
+=== Server IP Information ===
+2025-06-17 14:45:54,685 - USB_Redirector_Server - INFO - Local IP: 169.254.159.62
+2025-06-17 14:45:54,685 - USB_Redirector_Server - INFO - WAN IP: 176.88.175.173
+2025-06-17 14:45:54,685 - USB_Redirector_Server - INFO - Port: 8765
+2025-06-17 14:45:54,685 - USB_Redirector_Server - INFO - ===========================
+
+2025-06-17 14:45:54,689 - USB_Redirector_Server - INFO - Server initialized successfully
+2025-06-17 14:45:54,689 - USB_Redirector_Server - INFO - === Server Initialization Complete ===
+2025-06-17 14:45:54,701 - USB_Redirector_Server - INFO - === Starting Server ===
+2025-06-17 14:45:54,702 - USB_Redirector_Server - INFO - Start Time: 2025-06-17 14:45:54
+2025-06-17 14:45:54,703 - websockets.server - INFO - server listening on 0.0.0.0:8765
+2025-06-17 14:45:54,705 - USB_Redirector_Server - INFO - Server started on 0.0.0.0:8765
+2025-06-17 14:45:54,717 - USB_Redirector_Server - INFO - === Server Start Complete ===
+2025-06-17 14:46:21,084 - USB_Redirector_Server - INFO - === Initializing Server ===
+2025-06-17 14:46:21,084 - USB_Redirector_Server - INFO - Start Time: 2025-06-17 14:46:21
+2025-06-17 14:46:22,032 - USB_Redirector_Server - INFO - 
+=== Server IP Information ===
+2025-06-17 14:46:22,032 - USB_Redirector_Server - INFO - Local IP: 169.254.159.62
+2025-06-17 14:46:22,032 - USB_Redirector_Server - INFO - WAN IP: 176.88.175.173
+2025-06-17 14:46:22,032 - USB_Redirector_Server - INFO - Port: 8765
+2025-06-17 14:46:22,032 - USB_Redirector_Server - INFO - ===========================
+
+2025-06-17 14:46:22,032 - USB_Redirector_Server - INFO - Server initialized successfully
+2025-06-17 14:46:22,032 - USB_Redirector_Server - INFO - === Server Initialization Complete ===
+2025-06-17 14:46:22,037 - USB_Redirector_Server - INFO - === Starting Server ===
+2025-06-17 14:46:22,037 - USB_Redirector_Server - INFO - Start Time: 2025-06-17 14:46:22
+2025-06-17 14:46:22,039 - websockets.server - INFO - server listening on 0.0.0.0:8765
+2025-06-17 14:46:22,039 - USB_Redirector_Server - INFO - Server started on 0.0.0.0:8765
+2025-06-17 14:46:22,039 - USB_Redirector_Server - INFO - === Server Start Complete ===
+2025-06-17 14:49:06,577 - USB_Redirector_Server - INFO - === Initializing Server ===
+2025-06-17 14:49:06,577 - USB_Redirector_Server - INFO - Start Time: 2025-06-17 14:49:06
+2025-06-17 14:49:07,901 - USB_Redirector_Server - INFO - 
+=== Server IP Information ===
+2025-06-17 14:49:07,901 - USB_Redirector_Server - INFO - Local IP: 192.168.1.102
+2025-06-17 14:49:07,901 - USB_Redirector_Server - INFO - WAN IP: 176.88.175.173
+2025-06-17 14:49:07,901 - USB_Redirector_Server - INFO - Port: 8765
+2025-06-17 14:49:07,901 - USB_Redirector_Server - INFO - ===========================
+
+2025-06-17 14:49:07,907 - USB_Redirector_Server - INFO - Server initialized successfully
+2025-06-17 14:49:07,907 - USB_Redirector_Server - INFO - === Server Initialization Complete ===
+2025-06-17 14:49:07,909 - USB_Redirector_Server - INFO - === Starting Server ===
+2025-06-17 14:49:07,913 - USB_Redirector_Server - INFO - Start Time: 2025-06-17 14:49:07
+2025-06-17 14:49:07,913 - websockets.server - INFO - server listening on 0.0.0.0:8765
+2025-06-17 14:49:07,913 - USB_Redirector_Server - INFO - Server started on 0.0.0.0:8765
+2025-06-17 14:49:07,919 - USB_Redirector_Server - INFO - === Server Start Complete ===
+2025-06-17 14:51:32,830 - USB_Redirector_Server - INFO - === Initializing Server ===
+2025-06-17 14:51:32,832 - USB_Redirector_Server - INFO - Start Time: 2025-06-17 14:51:32
+2025-06-17 14:51:34,167 - USB_Redirector_Server - INFO - 
+=== Server IP Information ===
+2025-06-17 14:51:34,167 - USB_Redirector_Server - INFO - Local IP: 192.168.1.102
+2025-06-17 14:51:34,169 - USB_Redirector_Server - INFO - WAN IP: 176.88.175.173
+2025-06-17 14:51:34,169 - USB_Redirector_Server - INFO - Port: 8765
+2025-06-17 14:51:34,169 - USB_Redirector_Server - INFO - ===========================
+
+2025-06-17 14:51:34,169 - USB_Redirector_Server - INFO - Server initialized successfully
+2025-06-17 14:51:34,169 - USB_Redirector_Server - INFO - === Server Initialization Complete ===
+2025-06-17 14:51:34,182 - USB_Redirector_Server - INFO - === Starting Server ===
+2025-06-17 14:51:34,182 - USB_Redirector_Server - INFO - Start Time: 2025-06-17 14:51:34
+2025-06-17 14:51:35,178 - USB_Redirector_Server - ERROR - Error starting server: object str can't be used in 'await' expression
+2025-06-17 14:52:19,491 - __main__ - ERROR - Error in main: object int can't be used in 'await' expression
+2025-06-17 14:52:24,404 - USB_Redirector_Server - INFO - === Initializing Server ===
+2025-06-17 14:52:24,404 - USB_Redirector_Server - INFO - Start Time: 2025-06-17 14:52:24
+2025-06-17 14:52:24,490 - USB_Redirector_Server - INFO - 
+=== Server IP Information ===
+2025-06-17 14:52:24,490 - USB_Redirector_Server - INFO - Local IP: 192.168.1.102
+2025-06-17 14:52:24,490 - USB_Redirector_Server - INFO - WAN IP: <coroutine object USBRedirectorServer.get_wan_ip at 0x00000230C7001B40>
+2025-06-17 14:52:24,490 - USB_Redirector_Server - INFO - Port: 8765
+2025-06-17 14:52:24,490 - USB_Redirector_Server - INFO - ===========================
+
+2025-06-17 14:52:24,490 - USB_Redirector_Server - INFO - Server initialized successfully
+2025-06-17 14:52:24,492 - USB_Redirector_Server - INFO - === Server Initialization Complete ===
+2025-06-17 14:52:24,496 - USB_Redirector_Server - INFO - === Starting Server ===
+2025-06-17 14:52:24,496 - USB_Redirector_Server - INFO - Start Time: 2025-06-17 14:52:24
+2025-06-17 14:52:25,171 - USB_Redirector_Server - INFO - WAN IP: 176.88.175.173
+2025-06-17 14:52:25,171 - USB_Redirector_Server - INFO - Local IP: 192.168.1.102
+2025-06-17 14:52:25,178 - websockets.server - INFO - server listening on 0.0.0.0:8765
+2025-06-17 14:52:25,180 - USB_Redirector_Server - INFO - Server listening on port 8765
+2025-06-17 14:52:25,181 - USB_Redirector_Server - INFO - Server is ready to accept connections
+2025-06-17 14:52:25,181 - USB_Redirector_Server - ERROR - Error starting server: 'ServerGUI' object has no attribute 'update_wan_ip'
+2025-06-17 14:52:28,837 - USB_Redirector_Server - INFO - === Initializing Server ===
+2025-06-17 14:52:28,838 - USB_Redirector_Server - INFO - Start Time: 2025-06-17 14:52:28
+2025-06-17 14:52:28,847 - USB_Redirector_Server - INFO - 
+=== Server IP Information ===
+2025-06-17 14:52:28,847 - USB_Redirector_Server - INFO - Local IP: 192.168.1.102
+2025-06-17 14:52:28,847 - USB_Redirector_Server - INFO - WAN IP: <coroutine object USBRedirectorServer.get_wan_ip at 0x00000230C7002240>
+2025-06-17 14:52:28,848 - USB_Redirector_Server - INFO - Port: 8765
+2025-06-17 14:52:28,848 - USB_Redirector_Server - INFO - ===========================
+
+2025-06-17 14:52:28,848 - USB_Redirector_Server - INFO - Server initialized successfully
+2025-06-17 14:52:28,848 - USB_Redirector_Server - INFO - === Server Initialization Complete ===
+2025-06-17 14:52:28,852 - USB_Redirector_Server - INFO - === Starting Server ===
+2025-06-17 14:52:28,852 - USB_Redirector_Server - INFO - Start Time: 2025-06-17 14:52:28
+2025-06-17 14:52:29,431 - USB_Redirector_Server - INFO - WAN IP: 176.88.175.173
+2025-06-17 14:52:29,431 - USB_Redirector_Server - INFO - Local IP: 192.168.1.102
+2025-06-17 14:52:29,437 - websockets.server - INFO - server listening on 0.0.0.0:8765
+2025-06-17 14:52:29,437 - USB_Redirector_Server - INFO - Server listening on port 8765
+2025-06-17 14:52:29,437 - USB_Redirector_Server - INFO - Server is ready to accept connections
+2025-06-17 14:52:29,437 - USB_Redirector_Server - ERROR - Error starting server: 'ServerGUI' object has no attribute 'update_wan_ip'
+2025-06-17 14:52:29,447 - ServerGUI - ERROR - Error starting server: 'ServerGUI' object has no attribute 'update_wan_ip'
+2025-06-17 14:53:18,443 - USB_Redirector_Server - INFO - === Initializing Server ===
+2025-06-17 14:53:18,446 - USB_Redirector_Server - INFO - Start Time: 2025-06-17 14:53:18
+2025-06-17 14:53:18,512 - USB_Redirector_Server - INFO - 
+=== Server IP Information ===
+2025-06-17 14:53:18,514 - USB_Redirector_Server - INFO - Local IP: 192.168.1.102
+2025-06-17 14:53:18,514 - USB_Redirector_Server - INFO - Port: 8765
+2025-06-17 14:53:18,514 - USB_Redirector_Server - INFO - ===========================
+
+2025-06-17 14:53:18,514 - USB_Redirector_Server - INFO - Server initialized successfully
+2025-06-17 14:53:18,514 - USB_Redirector_Server - INFO - === Server Initialization Complete ===
+2025-06-17 14:53:18,516 - USB_Redirector_Server - INFO - === Starting Server ===
+2025-06-17 14:53:18,516 - USB_Redirector_Server - INFO - Start Time: 2025-06-17 14:53:18
+2025-06-17 14:53:19,628 - USB_Redirector_Server - INFO - WAN IP: 176.88.175.173
+2025-06-17 14:53:19,630 - USB_Redirector_Server - INFO - Local IP: 192.168.1.102
+2025-06-17 14:53:19,630 - websockets.server - INFO - server listening on 0.0.0.0:8765
+2025-06-17 14:53:19,630 - USB_Redirector_Server - INFO - Server listening on port 8765
+2025-06-17 14:53:19,630 - USB_Redirector_Server - INFO - Server is ready to accept connections
+2025-06-17 14:53:19,632 - USB_Redirector_Server - ERROR - Error starting server: 'ServerGUI' object has no attribute 'update_wan_ip'
+2025-06-17 14:53:21,248 - USB_Redirector_Server - INFO - === Initializing Server ===
+2025-06-17 14:53:21,248 - USB_Redirector_Server - INFO - Start Time: 2025-06-17 14:53:21
+2025-06-17 14:53:21,259 - USB_Redirector_Server - INFO - 
+=== Server IP Information ===
+2025-06-17 14:53:21,259 - USB_Redirector_Server - INFO - Local IP: 192.168.1.102
+2025-06-17 14:53:21,259 - USB_Redirector_Server - INFO - Port: 8765
+2025-06-17 14:53:21,259 - USB_Redirector_Server - INFO - ===========================
+
+2025-06-17 14:53:21,259 - USB_Redirector_Server - INFO - Server initialized successfully
+2025-06-17 14:53:21,260 - USB_Redirector_Server - INFO - === Server Initialization Complete ===
+2025-06-17 14:53:21,264 - USB_Redirector_Server - INFO - === Starting Server ===
+2025-06-17 14:53:21,264 - USB_Redirector_Server - INFO - Start Time: 2025-06-17 14:53:21
+2025-06-17 14:53:22,319 - USB_Redirector_Server - INFO - WAN IP: 176.88.175.173
+2025-06-17 14:53:22,319 - USB_Redirector_Server - INFO - Local IP: 192.168.1.102
+2025-06-17 14:53:22,322 - websockets.server - INFO - server listening on 0.0.0.0:8765
+2025-06-17 14:53:22,322 - USB_Redirector_Server - INFO - Server listening on port 8765
+2025-06-17 14:53:22,322 - USB_Redirector_Server - INFO - Server is ready to accept connections
+2025-06-17 14:53:22,322 - USB_Redirector_Server - ERROR - Error starting server: 'ServerGUI' object has no attribute 'update_wan_ip'
+2025-06-17 14:53:22,333 - ServerGUI - ERROR - Error starting server: 'ServerGUI' object has no attribute 'update_wan_ip'
+2025-06-17 15:05:46,908 - USB_Redirector_Server - INFO - === Initializing Server ===
+2025-06-17 15:05:46,909 - USB_Redirector_Server - INFO - Start Time: 2025-06-17 15:05:46
+2025-06-17 15:05:46,963 - USB_Redirector_Server - INFO - 
+=== Server IP Information ===
+2025-06-17 15:05:46,963 - USB_Redirector_Server - INFO - Local IP: 192.168.1.102
+2025-06-17 15:05:46,963 - USB_Redirector_Server - INFO - Port: 8765
+2025-06-17 15:05:46,963 - USB_Redirector_Server - INFO - ===========================
+
+2025-06-17 15:05:46,963 - USB_Redirector_Server - INFO - Server initialized successfully
+2025-06-17 15:05:46,963 - USB_Redirector_Server - INFO - === Server Initialization Complete ===
+2025-06-17 15:05:46,966 - USB_Redirector_Server - INFO - === Starting Server ===
+2025-06-17 15:05:46,966 - USB_Redirector_Server - INFO - Start Time: 2025-06-17 15:05:46
+2025-06-17 15:05:47,499 - USB_Redirector_Server - INFO - WAN IP: 176.88.175.173
+2025-06-17 15:05:47,500 - USB_Redirector_Server - INFO - Local IP: 192.168.1.102
+2025-06-17 15:05:47,501 - websockets.server - INFO - server listening on 0.0.0.0:8765
+2025-06-17 15:05:47,501 - USB_Redirector_Server - INFO - Server listening on port 8765
+2025-06-17 15:05:47,501 - USB_Redirector_Server - INFO - Server is ready to accept connections
+2025-06-17 15:05:47,510 - USB_Redirector_Server - INFO - === Server Started Successfully ===
+2025-06-17 15:09:53,190 - USB_Redirector_Server - INFO - === Initializing Server ===
+2025-06-17 15:09:53,190 - USB_Redirector_Server - INFO - Start Time: 2025-06-17 15:09:53
+2025-06-17 15:09:53,240 - USB_Redirector_Server - INFO - 
+=== Server IP Information ===
+2025-06-17 15:09:53,240 - USB_Redirector_Server - INFO - Local IP: 192.168.1.102
+2025-06-17 15:09:53,241 - USB_Redirector_Server - INFO - Port: 8765
+2025-06-17 15:09:53,241 - USB_Redirector_Server - INFO - ===========================
+
+2025-06-17 15:09:53,241 - USB_Redirector_Server - INFO - Server initialized successfully
+2025-06-17 15:09:53,241 - USB_Redirector_Server - INFO - === Server Initialization Complete ===
+2025-06-17 15:09:53,245 - USB_Redirector_Server - INFO - === Starting Server ===
+2025-06-17 15:09:53,246 - USB_Redirector_Server - INFO - Start Time: 2025-06-17 15:09:53
+2025-06-17 15:09:54,194 - USB_Redirector_Server - INFO - WAN IP: 176.88.175.173
+2025-06-17 15:09:54,194 - USB_Redirector_Server - INFO - Local IP: 192.168.1.102
+2025-06-17 15:09:54,195 - websockets.server - INFO - server listening on 0.0.0.0:8765
+2025-06-17 15:09:54,195 - USB_Redirector_Server - INFO - Server listening on port 8765
+2025-06-17 15:09:54,195 - USB_Redirector_Server - INFO - Server is ready to accept connections
+2025-06-17 15:09:54,198 - USB_Redirector_Server - INFO - === Server Started Successfully ===
+2025-06-17 15:11:19,077 - USB_Redirector_Server - INFO - === Initializing Server ===
+2025-06-17 15:11:19,077 - USB_Redirector_Server - INFO - Start Time: 2025-06-17 15:11:19
+2025-06-17 15:11:19,125 - USB_Redirector_Server - INFO - 
+=== Server IP Information ===
+2025-06-17 15:11:19,125 - USB_Redirector_Server - INFO - Local IP: 192.168.1.102
+2025-06-17 15:11:19,125 - USB_Redirector_Server - INFO - Port: 8765
+2025-06-17 15:11:19,125 - USB_Redirector_Server - INFO - ===========================
+
+2025-06-17 15:11:19,125 - USB_Redirector_Server - INFO - Server initialized successfully
+2025-06-17 15:11:19,125 - USB_Redirector_Server - INFO - === Server Initialization Complete ===
+2025-06-17 15:11:19,127 - USB_Redirector_Server - INFO - === Starting Server ===
+2025-06-17 15:11:19,127 - USB_Redirector_Server - INFO - Start Time: 2025-06-17 15:11:19
+2025-06-17 15:11:19,659 - USB_Redirector_Server - INFO - WAN IP: 176.88.175.173
+2025-06-17 15:11:19,659 - USB_Redirector_Server - INFO - Local IP: 192.168.1.102
+2025-06-17 15:11:19,661 - websockets.server - INFO - server listening on 0.0.0.0:8765
+2025-06-17 15:11:19,661 - USB_Redirector_Server - INFO - Server listening on port 8765
+2025-06-17 15:11:19,661 - USB_Redirector_Server - INFO - Server is ready to accept connections
+2025-06-17 15:11:19,666 - USB_Redirector_Server - INFO - === Server Started Successfully ===
+2025-06-17 15:13:09,125 - USB_Redirector_Server - INFO - === Initializing Server ===
+2025-06-17 15:13:09,125 - USB_Redirector_Server - INFO - Start Time: 2025-06-17 15:13:09
+2025-06-17 15:13:09,198 - USB_Redirector_Server - INFO - 
+=== Server IP Information ===
+2025-06-17 15:13:09,200 - USB_Redirector_Server - INFO - Local IP: 192.168.1.102
+2025-06-17 15:13:09,200 - USB_Redirector_Server - INFO - Port: 8765
+2025-06-17 15:13:09,200 - USB_Redirector_Server - INFO - ===========================
+
+2025-06-17 15:13:09,200 - USB_Redirector_Server - INFO - Server initialized successfully
+2025-06-17 15:13:09,200 - USB_Redirector_Server - INFO - === Server Initialization Complete ===
+2025-06-17 15:13:09,208 - USB_Redirector_Server - INFO - === Starting Server ===
+2025-06-17 15:13:09,208 - USB_Redirector_Server - INFO - Start Time: 2025-06-17 15:13:09
+2025-06-17 15:13:09,774 - USB_Redirector_Server - INFO - WAN IP: 176.88.175.173
+2025-06-17 15:13:09,774 - USB_Redirector_Server - INFO - Local IP: 192.168.1.102
+2025-06-17 15:13:09,775 - websockets.server - INFO - server listening on 0.0.0.0:8765
+2025-06-17 15:13:09,775 - USB_Redirector_Server - INFO - Server listening on port 8765
+2025-06-17 15:13:09,775 - USB_Redirector_Server - INFO - Server is ready to accept connections
+2025-06-17 15:13:09,780 - USB_Redirector_Server - INFO - === Server Started Successfully ===
+2025-06-17 15:17:51,067 - __main__ - ERROR - Error in main: object int can't be used in 'await' expression

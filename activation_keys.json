@@ -1,0 +1,702 @@
+{
+    "c364-f8bb-caa8-4671": {
+        "status": "used",
+        "created_at": "2025-06-14T23:38:11.807779",
+        "activation_date": "2025-06-14T23:38:47.427230",
+        "hardware_id": "498806c98ec066654b5dc421dfe71eb9fbcd6ddb657f4904889f87245e7031bf",
+        "expires_at": "2025-07-14T23:38:47.427230"
+    },
+    "ce28-4b68-127e-44a3": {
+        "status": "unused",
+        "created_at": "2025-06-14T23:38:11.807779",
+        "activation_date": null,
+        "hardware_id": null,
+        "expires_at": null
+    },
+    "10cb-0188-d0b6-46c9": {
+        "status": "unused",
+        "created_at": "2025-06-14T23:38:11.807779",
+        "activation_date": null,
+        "hardware_id": null,
+        "expires_at": null
+    },
+    "a34d-7460-e242-419d": {
+        "status": "unused",
+        "created_at": "2025-06-14T23:38:11.807779",
+        "activation_date": null,
+        "hardware_id": null,
+        "expires_at": null
+    },
+    "ac75-6be7-a5be-4d78": {
+        "status": "unused",
+        "created_at": "2025-06-14T23:38:11.807779",
+        "activation_date": null,
+        "hardware_id": null,
+        "expires_at": null
+    },
+    "404f-4dfe-4b96-474d": {
+        "status": "unused",
+        "created_at": "2025-06-14T23:38:11.807779",
+        "activation_date": null,
+        "hardware_id": null,
+        "expires_at": null
+    },
+    "9ba9-1030-6589-4183": {
+        "status": "unused",
+        "created_at": "2025-06-14T23:38:11.807779",
+        "activation_date": null,
+        "hardware_id": null,
+        "expires_at": null
+    },
+    "9ed1-6b62-fc8c-4448": {
+        "status": "unused",
+        "created_at": "2025-06-14T23:38:11.807779",
+        "activation_date": null,
+        "hardware_id": null,
+        "expires_at": null
+    },
+    "8606-e33d-59f0-432a": {
+        "status": "unused",
+        "created_at": "2025-06-14T23:38:11.807779",
+        "activation_date": null,
+        "hardware_id": null,
+        "expires_at": null
+    },
+    "c068-9b9a-2d60-4e3a": {
+        "status": "unused",
+        "created_at": "2025-06-14T23:38:11.807779",
+        "activation_date": null,
+        "hardware_id": null,
+        "expires_at": null
+    },
+    "74d4-9c06-e0db-4a29": {
+        "status": "unused",
+        "created_at": "2025-06-14T23:38:11.807779",
+        "activation_date": null,
+        "hardware_id": null,
+        "expires_at": null
+    },
+    "8501-4549-dbf1-4fcc": {
+        "status": "unused",
+        "created_at": "2025-06-14T23:38:11.807779",
+        "activation_date": null,
+        "hardware_id": null,
+        "expires_at": null
+    },
+    "98d6-2eda-4f57-448e": {
+        "status": "unused",
+        "created_at": "2025-06-14T23:38:11.807779",
+        "activation_date": null,
+        "hardware_id": null,
+        "expires_at": null
+    },
+    "bca7-26b2-7fac-4cbb": {
+        "status": "unused",
+        "created_at": "2025-06-14T23:38:11.807779",
+        "activation_date": null,
+        "hardware_id": null,
+        "expires_at": null
+    },
+    "9dfc-45be-e850-45b9": {
+        "status": "unused",
+        "created_at": "2025-06-14T23:38:11.807779",
+        "activation_date": null,
+        "hardware_id": null,
+        "expires_at": null
+    },
+    "3842-76c2-00bd-48d7": {
+        "status": "unused",
+        "created_at": "2025-06-14T23:38:11.807779",
+        "activation_date": null,
+        "hardware_id": null,
+        "expires_at": null
+    },
+    "ab05-e1c0-51ef-4687": {
+        "status": "unused",
+        "created_at": "2025-06-14T23:38:11.807779",
+        "activation_date": null,
+        "hardware_id": null,
+        "expires_at": null
+    },
+    "ff63-869e-cfa3-4e7c": {
+        "status": "unused",
+        "created_at": "2025-06-14T23:38:11.807779",
+        "activation_date": null,
+        "hardware_id": null,
+        "expires_at": null
+    },
+    "19b2-9f9b-0c01-435c": {
+        "status": "unused",
+        "created_at": "2025-06-14T23:38:11.807779",
+        "activation_date": null,
+        "hardware_id": null,
+        "expires_at": null
+    },
+    "88dc-581d-fdb9-4075": {
+        "status": "unused",
+        "created_at": "2025-06-14T23:38:11.807779",
+        "activation_date": null,
+        "hardware_id": null,
+        "expires_at": null
+    },
+    "2e01-e337-bc9f-4a16": {
+        "status": "unused",
+        "created_at": "2025-06-14T23:38:11.807779",
+        "activation_date": null,
+        "hardware_id": null,
+        "expires_at": null
+    },
+    "7452-6cb2-2875-4acf": {
+        "status": "unused",
+        "created_at": "2025-06-14T23:38:11.807779",
+        "activation_date": null,
+        "hardware_id": null,
+        "expires_at": null
+    },
+    "ed43-8a41-9eb0-4b0d": {
+        "status": "unused",
+        "created_at": "2025-06-14T23:38:11.807779",
+        "activation_date": null,
+        "hardware_id": null,
+        "expires_at": null
+    },
+    "4542-b729-47b2-41a2": {
+        "status": "unused",
+        "created_at": "2025-06-14T23:38:11.807779",
+        "activation_date": null,
+        "hardware_id": null,
+        "expires_at": null
+    },
+    "4f7f-e921-80bd-4759": {
+        "status": "unused",
+        "created_at": "2025-06-14T23:38:11.807779",
+        "activation_date": null,
+        "hardware_id": null,
+        "expires_at": null
+    },
+    "9b2e-ccd7-fdfb-480f": {
+        "status": "unused",
+        "created_at": "2025-06-14T23:38:11.807779",
+        "activation_date": null,
+        "hardware_id": null,
+        "expires_at": null
+    },
+    "f84d-8473-6781-4c67": {
+        "status": "unused",
+        "created_at": "2025-06-14T23:38:11.807779",
+        "activation_date": null,
+        "hardware_id": null,
+        "expires_at": null
+    },
+    "411c-edff-5deb-4945": {
+        "status": "unused",
+        "created_at": "2025-06-14T23:38:11.807779",
+        "activation_date": null,
+        "hardware_id": null,
+        "expires_at": null
+    },
+    "d0a8-56ab-b29d-4443": {
+        "status": "unused",
+        "created_at": "2025-06-14T23:38:11.807779",
+        "activation_date": null,
+        "hardware_id": null,
+        "expires_at": null
+    },
+    "923b-6411-6c9b-49be": {
+        "status": "unused",
+        "created_at": "2025-06-14T23:38:11.807779",
+        "activation_date": null,
+        "hardware_id": null,
+        "expires_at": null
+    },
+    "50c1-bd3b-fc95-4149": {
+        "status": "unused",
+        "created_at": "2025-06-14T23:38:11.807779",
+        "activation_date": null,
+        "hardware_id": null,
+        "expires_at": null
+    },
+    "ce7d-6e1b-ed0e-4347": {
+        "status": "unused",
+        "created_at": "2025-06-14T23:38:11.807779",
+        "activation_date": null,
+        "hardware_id": null,
+        "expires_at": null
+    },
+    "4547-7043-6d41-4f8a": {
+        "status": "unused",
+        "created_at": "2025-06-14T23:38:11.807779",
+        "activation_date": null,
+        "hardware_id": null,
+        "expires_at": null
+    },
+    "0487-2a9f-c81e-497e": {
+        "status": "unused",
+        "created_at": "2025-06-14T23:38:11.807779",
+        "activation_date": null,
+        "hardware_id": null,
+        "expires_at": null
+    },
+    "36f9-1278-3d23-449c": {
+        "status": "unused",
+        "created_at": "2025-06-14T23:38:11.807779",
+        "activation_date": null,
+        "hardware_id": null,
+        "expires_at": null
+    },
+    "6c0d-4990-f7ee-456b": {
+        "status": "unused",
+        "created_at": "2025-06-14T23:38:11.807779",
+        "activation_date": null,
+        "hardware_id": null,
+        "expires_at": null
+    },
+    "518e-8a9f-3886-4a9c": {
+        "status": "unused",
+        "created_at": "2025-06-14T23:38:11.807779",
+        "activation_date": null,
+        "hardware_id": null,
+        "expires_at": null
+    },
+    "e7ce-9e83-a237-4d89": {
+        "status": "unused",
+        "created_at": "2025-06-14T23:38:11.807779",
+        "activation_date": null,
+        "hardware_id": null,
+        "expires_at": null
+    },
+    "851f-c124-5db7-40af": {
+        "status": "unused",
+        "created_at": "2025-06-14T23:38:11.807779",
+        "activation_date": null,
+        "hardware_id": null,
+        "expires_at": null
+    },
+    "778b-2ce4-3840-4b89": {
+        "status": "unused",
+        "created_at": "2025-06-14T23:38:11.807779",
+        "activation_date": null,
+        "hardware_id": null,
+        "expires_at": null
+    },
+    "6c76-c080-a57a-439f": {
+        "status": "unused",
+        "created_at": "2025-06-14T23:38:11.807779",
+        "activation_date": null,
+        "hardware_id": null,
+        "expires_at": null
+    },
+    "c26a-8ff6-be95-4c94": {
+        "status": "unused",
+        "created_at": "2025-06-14T23:38:11.807779",
+        "activation_date": null,
+        "hardware_id": null,
+        "expires_at": null
+    },
+    "93f8-74b3-9248-4e62": {
+        "status": "unused",
+        "created_at": "2025-06-14T23:38:11.807779",
+        "activation_date": null,
+        "hardware_id": null,
+        "expires_at": null
+    },
+    "ded4-0c4d-2c04-4775": {
+        "status": "unused",
+        "created_at": "2025-06-14T23:38:11.807779",
+        "activation_date": null,
+        "hardware_id": null,
+        "expires_at": null
+    },
+    "d8eb-6861-8c02-4426": {
+        "status": "unused",
+        "created_at": "2025-06-14T23:38:11.807779",
+        "activation_date": null,
+        "hardware_id": null,
+        "expires_at": null
+    },
+    "d63d-c565-1568-4280": {
+        "status": "unused",
+        "created_at": "2025-06-14T23:38:11.807779",
+        "activation_date": null,
+        "hardware_id": null,
+        "expires_at": null
+    },
+    "beb9-c40f-4fa7-4f44": {
+        "status": "unused",
+        "created_at": "2025-06-14T23:38:11.807779",
+        "activation_date": null,
+        "hardware_id": null,
+        "expires_at": null
+    },
+    "12f5-d2ed-53cd-4f3c": {
+        "status": "unused",
+        "created_at": "2025-06-14T23:38:11.807779",
+        "activation_date": null,
+        "hardware_id": null,
+        "expires_at": null
+    },
+    "6d40-cda7-8b76-472b": {
+        "status": "unused",
+        "created_at": "2025-06-14T23:38:11.807779",
+        "activation_date": null,
+        "hardware_id": null,
+        "expires_at": null
+    },
+    "abf2-26c9-4232-4067": {
+        "status": "unused",
+        "created_at": "2025-06-14T23:38:11.807779",
+        "activation_date": null,
+        "hardware_id": null,
+        "expires_at": null
+    },
+    "fdb4-81a2-e5fe-4ca8": {
+        "status": "unused",
+        "created_at": "2025-06-14T23:38:11.807779",
+        "activation_date": null,
+        "hardware_id": null,
+        "expires_at": null
+    },
+    "20f4-c38d-0ab5-40c1": {
+        "status": "unused",
+        "created_at": "2025-06-14T23:38:11.807779",
+        "activation_date": null,
+        "hardware_id": null,
+        "expires_at": null
+    },
+    "1df4-2f69-eea1-4db4": {
+        "status": "unused",
+        "created_at": "2025-06-14T23:38:11.807779",
+        "activation_date": null,
+        "hardware_id": null,
+        "expires_at": null
+    },
+    "c40c-05b6-aa17-48c1": {
+        "status": "unused",
+        "created_at": "2025-06-14T23:38:11.807779",
+        "activation_date": null,
+        "hardware_id": null,
+        "expires_at": null
+    },
+    "5354-0055-c330-48b3": {
+        "status": "unused",
+        "created_at": "2025-06-14T23:38:11.807779",
+        "activation_date": null,
+        "hardware_id": null,
+        "expires_at": null
+    },
+    "9455-e9fc-bfeb-4933": {
+        "status": "unused",
+        "created_at": "2025-06-14T23:38:11.807779",
+        "activation_date": null,
+        "hardware_id": null,
+        "expires_at": null
+    },
+    "c410-9a37-7bab-4384": {
+        "status": "unused",
+        "created_at": "2025-06-14T23:38:11.807779",
+        "activation_date": null,
+        "hardware_id": null,
+        "expires_at": null
+    },
+    "ef87-f03c-dea1-4d47": {
+        "status": "unused",
+        "created_at": "2025-06-14T23:38:11.807779",
+        "activation_date": null,
+        "hardware_id": null,
+        "expires_at": null
+    },
+    "2444-1896-4cd2-438c": {
+        "status": "unused",
+        "created_at": "2025-06-14T23:38:11.807779",
+        "activation_date": null,
+        "hardware_id": null,
+        "expires_at": null
+    },
+    "3ad2-3328-899e-49b4": {
+        "status": "unused",
+        "created_at": "2025-06-14T23:38:11.807779",
+        "activation_date": null,
+        "hardware_id": null,
+        "expires_at": null
+    },
+    "e7fb-ee7b-e4de-4515": {
+        "status": "unused",
+        "created_at": "2025-06-14T23:38:11.807779",
+        "activation_date": null,
+        "hardware_id": null,
+        "expires_at": null
+    },
+    "94b2-39b7-718e-4bce": {
+        "status": "unused",
+        "created_at": "2025-06-14T23:38:11.807779",
+        "activation_date": null,
+        "hardware_id": null,
+        "expires_at": null
+    },
+    "c32a-2713-3952-4c88": {
+        "status": "unused",
+        "created_at": "2025-06-14T23:38:11.807779",
+        "activation_date": null,
+        "hardware_id": null,
+        "expires_at": null
+    },
+    "3b47-654b-5a95-43be": {
+        "status": "unused",
+        "created_at": "2025-06-14T23:38:11.807779",
+        "activation_date": null,
+        "hardware_id": null,
+        "expires_at": null
+    },
+    "577f-f620-f4e2-490d": {
+        "status": "unused",
+        "created_at": "2025-06-14T23:38:11.807779",
+        "activation_date": null,
+        "hardware_id": null,
+        "expires_at": null
+    },
+    "fc93-1f22-1752-4c8f": {
+        "status": "unused",
+        "created_at": "2025-06-14T23:38:11.807779",
+        "activation_date": null,
+        "hardware_id": null,
+        "expires_at": null
+    },
+    "2a74-0d86-f271-4e02": {
+        "status": "unused",
+        "created_at": "2025-06-14T23:38:11.807779",
+        "activation_date": null,
+        "hardware_id": null,
+        "expires_at": null
+    },
+    "4a13-adea-b540-4dc1": {
+        "status": "unused",
+        "created_at": "2025-06-14T23:38:11.807779",
+        "activation_date": null,
+        "hardware_id": null,
+        "expires_at": null
+    },
+    "6280-a62e-1988-48d1": {
+        "status": "unused",
+        "created_at": "2025-06-14T23:38:11.807779",
+        "activation_date": null,
+        "hardware_id": null,
+        "expires_at": null
+    },
+    "f2e7-a9cf-e4dd-4385": {
+        "status": "unused",
+        "created_at": "2025-06-14T23:38:11.807779",
+        "activation_date": null,
+        "hardware_id": null,
+        "expires_at": null
+    },
+    "7e72-c584-f4e7-4f16": {
+        "status": "unused",
+        "created_at": "2025-06-14T23:38:11.807779",
+        "activation_date": null,
+        "hardware_id": null,
+        "expires_at": null
+    },
+    "78e2-b3ef-f9d1-448a": {
+        "status": "unused",
+        "created_at": "2025-06-14T23:38:11.807779",
+        "activation_date": null,
+        "hardware_id": null,
+        "expires_at": null
+    },
+    "ebec-3e68-9700-443f": {
+        "status": "unused",
+        "created_at": "2025-06-14T23:38:11.807779",
+        "activation_date": null,
+        "hardware_id": null,
+        "expires_at": null
+    },
+    "816e-871d-3058-4d79": {
+        "status": "unused",
+        "created_at": "2025-06-14T23:38:11.807779",
+        "activation_date": null,
+        "hardware_id": null,
+        "expires_at": null
+    },
+    "fa97-8ed3-07ab-4c5d": {
+        "status": "unused",
+        "created_at": "2025-06-14T23:38:11.807779",
+        "activation_date": null,
+        "hardware_id": null,
+        "expires_at": null
+    },
+    "ff91-8443-2075-4046": {
+        "status": "unused",
+        "created_at": "2025-06-14T23:38:11.807779",
+        "activation_date": null,
+        "hardware_id": null,
+        "expires_at": null
+    },
+    "28f6-08e1-d16c-4b23": {
+        "status": "unused",
+        "created_at": "2025-06-14T23:38:11.807779",
+        "activation_date": null,
+        "hardware_id": null,
+        "expires_at": null
+    },
+    "3897-954b-bfd4-4cba": {
+        "status": "unused",
+        "created_at": "2025-06-14T23:38:11.807779",
+        "activation_date": null,
+        "hardware_id": null,
+        "expires_at": null
+    },
+    "157b-923d-aea4-42f4": {
+        "status": "unused",
+        "created_at": "2025-06-14T23:38:11.807779",
+        "activation_date": null,
+        "hardware_id": null,
+        "expires_at": null
+    },
+    "a9a9-2a65-85a3-411f": {
+        "status": "unused",
+        "created_at": "2025-06-14T23:38:11.807779",
+        "activation_date": null,
+        "hardware_id": null,
+        "expires_at": null
+    },
+    "35c1-946b-59ec-419c": {
+        "status": "unused",
+        "created_at": "2025-06-14T23:38:11.807779",
+        "activation_date": null,
+        "hardware_id": null,
+        "expires_at": null
+    },
+    "0e32-45c8-8ca1-4a08": {
+        "status": "unused",
+        "created_at": "2025-06-14T23:38:11.807779",
+        "activation_date": null,
+        "hardware_id": null,
+        "expires_at": null
+    },
+    "f997-7e45-dd56-4abf": {
+        "status": "unused",
+        "created_at": "2025-06-14T23:38:11.807779",
+        "activation_date": null,
+        "hardware_id": null,
+        "expires_at": null
+    },
+    "64e2-eb35-0ece-4753": {
+        "status": "unused",
+        "created_at": "2025-06-14T23:38:11.807779",
+        "activation_date": null,
+        "hardware_id": null,
+        "expires_at": null
+    },
+    "273b-866c-7715-4145": {
+        "status": "unused",
+        "created_at": "2025-06-14T23:38:11.807779",
+        "activation_date": null,
+        "hardware_id": null,
+        "expires_at": null
+    },
+    "feb9-5d25-a14c-4fef": {
+        "status": "unused",
+        "created_at": "2025-06-14T23:38:11.807779",
+        "activation_date": null,
+        "hardware_id": null,
+        "expires_at": null
+    },
+    "003d-b644-f288-4350": {
+        "status": "unused",
+        "created_at": "2025-06-14T23:38:11.807779",
+        "activation_date": null,
+        "hardware_id": null,
+        "expires_at": null
+    },
+    "46e2-0f4c-8f34-4a54": {
+        "status": "unused",
+        "created_at": "2025-06-14T23:38:11.807779",
+        "activation_date": null,
+        "hardware_id": null,
+        "expires_at": null
+    },
+    "41c4-c30f-12c3-46b6": {
+        "status": "unused",
+        "created_at": "2025-06-14T23:38:11.807779",
+        "activation_date": null,
+        "hardware_id": null,
+        "expires_at": null
+    },
+    "187b-cb8e-8aba-46df": {
+        "status": "unused",
+        "created_at": "2025-06-14T23:38:11.807779",
+        "activation_date": null,
+        "hardware_id": null,
+        "expires_at": null
+    },
+    "ff1e-2b5e-3792-405d": {
+        "status": "unused",
+        "created_at": "2025-06-14T23:38:11.807779",
+        "activation_date": null,
+        "hardware_id": null,
+        "expires_at": null
+    },
+    "e3a0-f647-4ec7-470b": {
+        "status": "unused",
+        "created_at": "2025-06-14T23:38:11.807779",
+        "activation_date": null,
+        "hardware_id": null,
+        "expires_at": null
+    },
+    "caaf-809a-6e7e-45ad": {
+        "status": "unused",
+        "created_at": "2025-06-14T23:38:11.807779",
+        "activation_date": null,
+        "hardware_id": null,
+        "expires_at": null
+    },
+    "7311-2e03-9ded-43da": {
+        "status": "unused",
+        "created_at": "2025-06-14T23:38:11.807779",
+        "activation_date": null,
+        "hardware_id": null,
+        "expires_at": null
+    },
+    "4a50-70fc-17f4-4f05": {
+        "status": "unused",
+        "created_at": "2025-06-14T23:38:11.807779",
+        "activation_date": null,
+        "hardware_id": null,
+        "expires_at": null
+    },
+    "ca9e-f36c-099f-4953": {
+        "status": "unused",
+        "created_at": "2025-06-14T23:38:11.807779",
+        "activation_date": null,
+        "hardware_id": null,
+        "expires_at": null
+    },
+    "2d4c-a20a-1e8b-4f20": {
+        "status": "unused",
+        "created_at": "2025-06-14T23:38:11.807779",
+        "activation_date": null,
+        "hardware_id": null,
+        "expires_at": null
+    },
+    "5b94-ef3e-fad4-4c31": {
+        "status": "unused",
+        "created_at": "2025-06-14T23:38:11.807779",
+        "activation_date": null,
+        "hardware_id": null,
+        "expires_at": null
+    },
+    "35c5-3d47-969c-4faa": {
+        "status": "unused",
+        "created_at": "2025-06-14T23:38:11.807779",
+        "activation_date": null,
+        "hardware_id": null,
+        "expires_at": null
+    },
+    "bda7-6177-f4e3-46c2": {
+        "status": "unused",
+        "created_at": "2025-06-14T23:38:11.807779",
+        "activation_date": null,
+        "hardware_id": null,
+        "expires_at": null
+    }
+}
