@@ -20,7 +20,8 @@ pip install -r requirements.txt
 
 ### تشغيل التطبيق
 ```bash
-python main.py
+python run_client.py
+python run_server
 ```
 
 ### استخدام كعميل
